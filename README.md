@@ -65,14 +65,23 @@ endmodule
 Logic symbol & Truthtable
 RTL realization
 
-### Output:  HALF ADDER
+### Output:  
+HALF ADDER
 ![halfadder](https://user-images.githubusercontent.com/120103862/229356243-981ac1ec-a46b-4c67-a1d5-cce1abe0151b.png)
 
 FULL ADDER:
 ![fulladder](https://user-images.githubusercontent.com/120103862/229356298-fb2f9e3b-1858-4963-b7f9-c0b03b2f7767.png)
 
+###LOGIC GATES:
+Logic symbol of Half adder:
 
-### RTL
+![image](https://user-images.githubusercontent.com/120103862/229356774-38037677-e0d0-471f-b346-af600f11842f.png)
+
+Logic symbol of Full adder:
+
+![image](https://user-images.githubusercontent.com/120103862/229356797-d1dc6875-4185-4669-9063-198083953d11.png)
+
+
 ### TIMING DIAGRAM
 HALF ADDER:
 ![halfadder diagram](https://user-images.githubusercontent.com/120103862/229356405-29f8c3ab-88f8-4168-aa69-4c27621d713f.png)
